@@ -25,6 +25,21 @@ Geometric-Shape-Recognition/
 └── README.md
 ```
 
+## 🚀 Installation & Usage
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/Geometric-Shape-Recognition-Python-ML.git
+cd Geometric-Shape-Recognition-Python-ML
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🛠️ Scripts & Notebooks Description
 
 ### `notebooks/CNN.ipynb`
